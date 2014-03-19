@@ -1,0 +1,18 @@
+#main{width: 100%;min-height: 400px;}
+#customers{width: 100%;height: 120px;margin: 0px auto;}
+#customers-content{width: 100%;margin: 0px auto;}
+.box{float: left;width: 150px;height: 100px;padding: 10px;}
+.box-content{margin:0px auto;width: 150px;height: 100px;margin-left:160px;}
+
+#left{min-height:358px;float: left;width: 820px;text-align: justify;font-size: 30px;}
+
+#right{height:400px;float: right;width: 330px;}
+#right-content{height: 200px;width: 300px;margin: 0px auto;margin-top:60px;}
+.tile-group{width: 265px;height: 134px;}
+.tile{width: 130px;height: 130px;}
+
+#tile1{float: left;}
+#tile2{float: right;}
+#tile3{float: left;}
+#tile4{float: right;}
+.tile-content1{background: rgba(0,0,0,0.5);min-height: 25px;color: #fafafa;font-size: 16px;margin-top: 0px;}
